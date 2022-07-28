@@ -1,0 +1,16 @@
+
+Game: The title of the game.
+
+Price: The price of the game listed on Steam.
+
+Genres: The genres of the game as listed on Steam.
+
+IGN_score: The review score given to the game by IGN.
+
+Release Date: The day the game became avalible to purchase and play.
+
+Player Sentiment: Sentiment assigned to game based on percentage of positive reviews.
+
+Positive Reviews [%]: The percentage of reviews, that are positive, written on Steam.
+
+No. of Reviews: The number of reviews left for each game on Steam. 
