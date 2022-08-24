@@ -1,11 +1,11 @@
 
 Game: The title of the game.
 
-Price: The price of the game listed on Steam.
+Price [£]: The price of the game listed on Steam.
 
 Genres: The genres of the game as listed on Steam.
 
-IGN_score: The review score given to the game by IGN.
+IGN_score [1-10]: The review score given to the game by IGN. 
 
 Release Date: The day the game became avalible to purchase and play.
 
