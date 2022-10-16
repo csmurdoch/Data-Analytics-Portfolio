@@ -1,5 +1,5 @@
 /* 
-Exploration of Scottish Crime Date (1996-2022)
+Exploration of Scottish Crime Data (1996-2022)
 https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Frecorded-crime
 
 Skills used: 
@@ -162,7 +162,7 @@ Join(
 	Where CouncilTaxCollection = 'Collection Rate') as t4
 On t1.FeatureName = t4.FeatureName And t1.DateCode = t4.DateCode;
 
---Note unit of Uncollected, billed and collected are million £
+--Note unit of Uncollected, billed and collected are million Â£
 
 Select *
 From #ScottishCouncilTaxRate
