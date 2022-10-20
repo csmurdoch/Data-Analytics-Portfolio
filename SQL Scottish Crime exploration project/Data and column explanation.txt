@@ -1,0 +1,35 @@
+https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Frecorded-crime
+
+Description of data:
+
+Some data is just the count while other data is given in rates per 10,000.
+Rates per 10,000 -> (no. of recorded crimes * mid year pop. estimate) * 10,000
+
+Data from 1996/97 to 2021/22
+The data was collected quarterly.
+Data set has 80122 rows.
+
+This dataset contains both crimes and offences.
+
+Column explanations:
+
+FeatureCode -> A code that identifies a geographic location.
+FeatureName -> The name of the place the crime was recorded in.
+FeatureType -> The type of place of the feature. Country or county for example.
+DateCode -> The 2 year window that the crime was recorded in.
+Units -> Is the value a simple count or rate per 10,000.
+Value -> The numeric value of the crime recorded.
+CrimeOrOffence -> The category of offence that was commited.
+
+Groups:
+
+1. Non-sexual crimes of violence
+2. Sexual crimes
+3. Crimes of dishonesty (Fraud, theft)
+4. Damage and reckless behaviour
+5. Crimes against society (Weapons, drugs)
+6. Antisocial offences (Assault, drunk & disorderly)
+7. Miscellaneous offences (licensing offence, enviromental offence)
+8. Road traffic offences
+
+
